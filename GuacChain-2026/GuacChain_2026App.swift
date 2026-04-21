@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct GuacChain_2026App: App {
+struct GuacChainApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OrderListView()
         }
     }
 }
